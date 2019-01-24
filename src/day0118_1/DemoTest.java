@@ -1,9 +1,7 @@
-package day0118;
+package day0118_1;
 
 public class DemoTest {
     public static void main(String argc[]) throws  Exception{
-      // dsfdsfsdf
         new Menu().List();
-//jhdsafhdhfwefuiwehfdsahffkh
     }
 }
